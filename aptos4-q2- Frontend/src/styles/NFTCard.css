@@ -1,0 +1,33 @@
+.nft-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: white;
+    text-align: left;
+  }
+  
+  .nft-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .nft-details h3 {
+    margin: 5px 0;
+  }
+  
+  .nft-rarity.common {
+    background-color: green;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 4px;
+  }
+  
+  .buy-button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  

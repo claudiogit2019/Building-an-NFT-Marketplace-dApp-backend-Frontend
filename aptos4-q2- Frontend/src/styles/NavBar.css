@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #001529;
+  padding: 10px 20px;
+  color: white;
+}
+
+.navbar-logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-links a {
+  margin-right: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+}
+
+.navbar-wallet {
+  display: flex;
+  align-items: center;
+}
+
+.connect-button {
+  background-color: #1890ff;
+  color: white;
+  border: none;
+}
+
+.connect-button:hover {
+  background-color: #40a9ff;
+}
